@@ -7,6 +7,8 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 # Information
 ![YouTube](./img/youtube.svg)
 
+[![YouTube](./img/youtube.svg 'Link to YouTube')](https://www.youtube.com)
+
 <img src="./img/youtube.svg" alt="YouTube Icon" /> [YouTube](https://www.youtube.com/)
 
 
