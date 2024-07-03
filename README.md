@@ -4,7 +4,7 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 * Examples that make the code crystal clear
 * Simple and concise demos to make coding concepts easy to grasp
 
-# Information
+# Find Me Here
 [![WebSite](./img/website.svg 'Link to dosomedev.com')](https://dosomedev.com)
 [![YouTube](./img/youtube.svg 'Link to YouTube')](https://www.youtube.com/@dosomedev)
 [![X](./img/x.svg 'Link to X')](https://x.com/DoSomeDev)
@@ -14,6 +14,4 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 [![Threads](./img/threads.svg 'Link to Threads')](https://threads.net/@dosomedev)
 [![TikTok](./img/tiktok.svg 'Link to TikTok')](https://tiktok.com/@dosomedev)
 [![Tumblr](./img/tumblr.svg 'Link to Tumblr')](https://tumblr.com/dosomedev)
-
-Head over to my [YouTube channel @DoSomeDev](https://youtube.com/@DoSomeDev) or website [www.dosomedev.com](https://www.dosomedev.com) for in-depth explanations and tutorials on every code snippet here. You'll get a clear understanding of how these patterns work and how to implement them effectively in your own projects.
 
