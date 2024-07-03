@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd arraylist-app
+mvn clean package
