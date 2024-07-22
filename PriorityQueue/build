@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd priorityqueue-app
+mvn clean package

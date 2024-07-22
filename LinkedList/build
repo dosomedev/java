@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd linkedlist-app
+mvn clean package

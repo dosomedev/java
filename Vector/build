@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd vector-app
+mvn clean package
