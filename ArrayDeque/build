@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd arraydeque-app
+mvn clean package
