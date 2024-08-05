@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd linkedhashmap-app
+mvn clean package
