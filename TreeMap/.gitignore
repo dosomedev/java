@@ -1,0 +1,20 @@
+# Maven build files
+target/
+
+# IDE or editor files
+*.iml
+*.classpath
+*.project
+*.settings
+*.vscode/*
+
+# Temporary files and directories
+tmp/
+work/
+.idea/
+nbproject/
+.cache/
+.gradle/
+.mvn/
+build/
+out/

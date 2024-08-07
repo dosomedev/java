@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd treeset-app
+mvn clean package

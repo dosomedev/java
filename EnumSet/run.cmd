@@ -1,0 +1,4 @@
+@echo off
+
+cd enumset-app\target
+java -jar enumset-app-1.0.jar

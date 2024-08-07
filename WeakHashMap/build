@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd weakhashmap-app
+mvn clean package

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd linkedhashset-app
+mvn clean package

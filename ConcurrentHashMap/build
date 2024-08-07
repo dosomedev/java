@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd concurrenthashmap-app
+mvn clean package

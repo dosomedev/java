@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd treemap-app
+mvn clean package
