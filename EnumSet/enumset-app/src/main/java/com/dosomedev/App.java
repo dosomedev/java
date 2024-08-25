@@ -3,11 +3,8 @@ package com.dosomedev;
 import java.util.Arrays;
 import java.util.EnumSet;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
-
-import javax.management.relation.Role;
 
 /**
  * EnumSet example.
@@ -29,6 +26,12 @@ public class App
 
     public static void main( String[] args )
     {
+        runBenchmarkType(BenchmarkType.ADD);
+        runBenchmarkType(BenchmarkType.CONTAINS);
+        runBenchmarkType(BenchmarkType.REMOVE);
+    }
+
+    private static void runBenchmarkType(BenchmarkType type) {
         // Create sets.
         Color[] colors = Color.values();
         EnumSet<Color> enumSet = EnumSet.allOf(Color.class);
@@ -40,8 +43,8 @@ public class App
 
         // Benchmark loop.
         for (int i=0; i<ROUNDS; i++) {
-            avgEnumSet += benchmark(enumSet, i + 1, BenchmarkType.ADD);
-            avgHashSet += benchmark(hashSet, i + 1, BenchmarkType.ADD);
+            avgEnumSet += benchmark(enumSet, i + 1, type);
+            avgHashSet += benchmark(hashSet, i + 1, type);
         }
 
         // Calculate average millis.
@@ -49,47 +52,8 @@ public class App
         avgHashSet /= ROUNDS;
 
         // Print statistics.
-        System.out.println("Average EnumSet Add millis: " + avgEnumSet + " ms");
-        System.out.println("Average HashSet Add millis: " + avgHashSet + " ms");
-        System.out.println();
-
-        // Control variables.
-        avgEnumSet = 0;
-        avgHashSet = 0;
-
-        // Benchmark loop.
-        for (int i=0; i<ROUNDS; i++) {
-            avgEnumSet += benchmark(enumSet, i + 1, BenchmarkType.CONTAINS);
-            avgHashSet += benchmark(hashSet, i + 1, BenchmarkType.CONTAINS);
-        }
-
-        // Calculate average millis.
-        avgEnumSet /= ROUNDS;
-        avgHashSet /= ROUNDS;
-
-        // Print statistics.
-        System.out.println("Average EnumSet Contains millis: " + avgEnumSet + " ms");
-        System.out.println("Average HashSet Contains millis: " + avgHashSet + " ms");
-        System.out.println();
-
-        // Control variables.
-        avgEnumSet = 0;
-        avgHashSet = 0;
-
-        // Benchmark loop.
-        for (int i=0; i<ROUNDS; i++) {
-            avgEnumSet += benchmark(enumSet, i + 1, BenchmarkType.REMOVE);
-            avgHashSet += benchmark(hashSet, i + 1, BenchmarkType.REMOVE);
-        }
-
-        // Calculate average millis.
-        avgEnumSet /= ROUNDS;
-        avgHashSet /= ROUNDS;
-
-        // Print statistics.
-        System.out.println("Average EnumSet Remove millis: " + avgEnumSet + " ms");
-        System.out.println("Average HashSet Remove millis: " + avgHashSet + " ms");
-        System.out.println();
+        System.out.println("Average EnumSet-" + type.toString() + " millis: " + avgEnumSet + " ms");
+        System.out.println("Average HashSet-" + type.toString() + " millis: " + avgHashSet + " ms");
     }
 
     private static long benchmark(Set<Color> set, int round, BenchmarkType type) {
