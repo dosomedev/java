@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd enummap-app
+mvn clean package
