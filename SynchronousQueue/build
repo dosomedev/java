@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd synchronousqueue-app
+mvn clean package
