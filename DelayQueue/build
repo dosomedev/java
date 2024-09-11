@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd delayqueue-app
+mvn clean package
