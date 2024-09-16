@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd stringbuffer-app
+mvn clean package

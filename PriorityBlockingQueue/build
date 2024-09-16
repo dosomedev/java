@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd priorityblockingqueue-app
+mvn clean package

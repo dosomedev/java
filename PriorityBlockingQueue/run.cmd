@@ -1,0 +1,4 @@
+@echo off
+
+cd priorityblockingqueue-app\target
+java -jar priorityblockingqueue-app-1.0.jar
