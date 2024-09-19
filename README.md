@@ -6,7 +6,7 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 
 # Find Me Here
 [![WebSite](./img/website.svg 'Link to dosomedev.com')](https://dosomedev.com)
-[![YouTube](./img/youtube.svg 'Link to YouTube')](https://www.youtube.com/@dosomedev)
+[![YouTube](./img/youtube.svg 'Link to YouTube')](https://www.youtube.com/@dosomedev?sub_confirmation=1)
 [![X](./img/x.svg 'Link to X')](https://x.com/DoSomeDev)
 [![GitHub](./img/github.svg 'Link to GitHub')](https://github.com/dosomedev)
 [![Facebook](./img/facebook.svg 'Link to Facebook')](https://facebook.com/dsd.dosomedev)
