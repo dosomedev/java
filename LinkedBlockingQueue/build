@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd linkedblockingqueue-app
+mvn clean package
