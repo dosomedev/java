@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd dateformatting-app
+mvn clean package

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+mvn archetype:generate \
+    -DgroupId=com.dosomedev \
+    -DartifactId=dateformatting-app \
+    -DarchetypeArtifactId=maven-archetype-quickstart \
+    -DarchetypeVersion=1.4 \
+    -DinteractiveMode=false
