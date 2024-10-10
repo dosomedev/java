@@ -2,6 +2,8 @@
     <br />
     <img src="https://raw.githubusercontent.com/dosomedev/java/656667294fc2c03f1a879b6a1aa8ea01bb86da17/img/dsd-logo.svg" alt="Do Some Dev Logo"/>
     <h3>All-in on coding, programming, developing!</h3>
+    <br />
+    <br />
 </div>
 
 # Java Examples for the Videos
