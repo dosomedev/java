@@ -13,7 +13,7 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 * Simple and concise demos to make coding concepts easy to grasp
 
 # List of Videos
-# Beginner-friendly
+## Beginner-friendly
 
 <table>
 <tr>
@@ -186,7 +186,7 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 </tr>
 </table>
 
-# Advanced
+## Advanced
 <table>
 <tr>
 <td align="center">
