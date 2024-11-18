@@ -13,6 +13,7 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 * Simple and concise demos to make coding concepts easy to grasp
 
 # List of Videos
+# Beginner-friendly
 
 <table>
 <tr>
@@ -161,15 +162,6 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 </tr>
 <tr>
 <td align="center">
-<strong>Threading</strong><br/>
-<a href="https://youtu.be/MHhP1m_GTDs" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./Threading">Code Example</a> / <a href="https://youtu.be/MHhP1m_GTDs" target="_blank">YouTube Video</a><br/><br/>
-</td>
-<td align="center">
-</td>
-</tr>
-<tr>
-<td align="center">
 <strong>TreeMap</strong><br/>
 <a href="https://youtu.be/thb4MFhOObI" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/TreeMap.png?raw=true" alt="Link to YouTube"></a><br/>
 <a href="./TreeMap">Code Example</a> / <a href="https://youtu.be/thb4MFhOObI" target="_blank">YouTube Video</a><br/><br/>
@@ -194,8 +186,18 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 </tr>
 </table>
 
-
-
+# Advanced
+<table>
+<tr>
+<td align="center">
+<strong>Threading</strong><br/>
+<a href="https://youtu.be/MHhP1m_GTDs" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./Threading">Code Example</a> / <a href="https://youtu.be/MHhP1m_GTDs" target="_blank">YouTube Video</a><br/><br/>
+</td>
+<td align="center">
+</td>
+</tr>
+</table>
 
 
 # Meet Me Here
