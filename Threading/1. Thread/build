@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd thread-app
+mvn clean package
