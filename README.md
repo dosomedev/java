@@ -191,17 +191,13 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 <tr>
 <td align="center">
 <strong>Threading</strong><br/>
-<a href="https://youtu.be/MHhP1m_GTDs" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="https://youtu.be/MHhP1m_GTDs" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-1.png?raw=true" alt="Link to YouTube"></a><br/>
 <a href="./Threading">Code Example</a> / <a href="https://youtu.be/MHhP1m_GTDs" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
-</td>
-<td align="center">
-<strong>Thread State Priority Interrupt</strong><br/>
-<a href="https://youtu.be/cW4w30GpUw0" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading2.png?raw=true" alt="Link to YouTube"></a><br/>
+<strong>WeakHashMap</strong><br/>
+<a href="https://youtu.be/cW4w30GpUw0" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-2.png?raw=true" alt="Link to YouTube"></a><br/>
 <a href="./Threading">Code Example</a> / <a href="https://youtu.be/cW4w30GpUw0" target="_blank">YouTube Video</a><br/><br/>
-</td>
-<td align="center">
 </td>
 </tr>
 </table>
