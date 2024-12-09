@@ -200,6 +200,14 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 <a href="./Threading">Code Example</a> / <a href="https://youtu.be/cW4w30GpUw0" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
+<tr>
+<td align="center">
+<strong>Java Multithreading Synchronization</strong><br/>
+<a href="https://youtu.be/cI2eImdH8Ek" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-3.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./Threading">Code Example</a> / <a href="https://youtu.be/cI2eImdH8Ek" target="_blank">YouTube Video</a><br/><br/>
+</td>
+<td align="center"></td>
+</tr>
 </table>
 
 
