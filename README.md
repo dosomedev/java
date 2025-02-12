@@ -188,26 +188,71 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 
 ## Advanced
 <table>
+
 <tr>
-<td align="center">
-<strong>Multithreading in Java Explained</strong><br/>
-<a href="https://youtu.be/MHhP1m_GTDs" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-1.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./Threading">Code Example</a> / <a href="https://youtu.be/MHhP1m_GTDs" target="_blank">YouTube Video</a><br/><br/>
-</td>
-<td align="center">
-<strong>Java Multithreading State Priority Interrupt</strong><br/>
-<a href="https://youtu.be/cW4w30GpUw0" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-2.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./Threading">Code Example</a> / <a href="https://youtu.be/cW4w30GpUw0" target="_blank">YouTube Video</a><br/><br/>
-</td>
+    <td align="center">
+        <strong>Java Multithreading - 1 - Explained</strong><br/>
+        <a href="https://youtu.be/MHhP1m_GTDs" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-1.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/MHhP1m_GTDs" target="_blank">YouTube Video</a><br/><br/>
+    </td>
 </tr>
+
 <tr>
-<td align="center">
-<strong>Java Multithreading Synchronization</strong><br/>
-<a href="https://youtu.be/cI2eImdH8Ek" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-3.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./Threading">Code Example</a> / <a href="https://youtu.be/cI2eImdH8Ek" target="_blank">YouTube Video</a><br/><br/>
-</td>
-<td align="center"></td>
+    <td align="center">
+        <strong>Java Multithreading - 2 - State Priority Interrupt</strong><br/>
+        <a href="https://youtu.be/cW4w30GpUw0" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-2.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/cW4w30GpUw0" target="_blank">YouTube Video</a><br/><br/>
+    </td>
 </tr>
+
+<tr>
+    <td align="center">
+        <strong>Java Multithreading - 3 - Synchronization</strong><br/>
+        <a href="https://youtu.be/cI2eImdH8Ek" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-3.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/cI2eImdH8Ek" target="_blank">YouTube Video</a><br/><br/>
+    </td>
+</tr>
+
+<tr>
+    <td align="center">
+        <strong>Java Multithreading - 4 - Wait Notify</strong><br/>
+        <a href="https://youtu.be/3Zwo2uRTtis" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-4.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/3Zwo2uRTtis" target="_blank">YouTube Video</a><br/><br/>
+    </td>
+</tr>
+
+<tr>
+    <td align="center">
+        <strong>Java Multithreading - 5 - Thread-local data and Timer</strong><br/>
+        <a href="https://youtu.be/5ZZwRscOfTo" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-5.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/5ZZwRscOfTo" target="_blank">YouTube Video</a><br/><br/>
+    </td>
+</tr>
+
+<tr>
+    <td align="center">
+        <strong>Java Multithreading - 6 - Executors</strong><br/>
+        <a href="https://youtu.be/bhJMkJq61c0" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-6.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/bhJMkJq61c0" target="_blank">YouTube Video</a><br/><br/>
+    </td>
+</tr>
+
+<tr>
+    <td align="center">
+        <strong>Java Multithreading - 7 - Synchronizers</strong><br/>
+        <a href="https://youtu.be/HYbXlvODl6E" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-7.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/HYbXlvODl6E" target="_blank">YouTube Video</a><br/><br/>
+    </td>
+</tr>
+
+<tr>
+    <td align="center">
+        <strong>Java Multithreading - 8 - The Locking Framework</strong><br/>
+        <a href="https://youtu.be/dadfi-hxvNw" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-8.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/dadfi-hxvNw" target="_blank">YouTube Video</a><br/><br/>
+    </td>
+</tr>
+
 </table>
 
 
