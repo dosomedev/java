@@ -253,6 +253,14 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
     </td>
 </tr>
 
+<tr>
+    <td align="center">
+        <strong>Java Multithreading - 9 - Volatile and Atomic</strong><br/>
+        <a href="https://youtu.be/jAZpbCDyYtw" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-9.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/jAZpbCDyYtw" target="_blank">YouTube Video</a><br/><br/>
+    </td>
+</tr>
+
 </table>
 
 
