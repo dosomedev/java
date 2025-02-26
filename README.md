@@ -261,6 +261,22 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
     </td>
 </tr>
 
+<tr>
+    <td align="center">
+        <strong>Java Multithreading - 10 - Fork Join Framework</strong><br/>
+        <a href="https://youtu.be/tusUoAfYzAI" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-10.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/tusUoAfYzAI" target="_blank">YouTube Video</a><br/><br/>
+    </td>
+</tr>
+
+<tr>
+    <td align="center">
+        <strong>Java Multithreading - 11 - Completion Service</strong><br/>
+        <a href="https://youtu.be/W36j4pDNWmE" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-11.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/W36j4pDNWmE" target="_blank">YouTube Video</a><br/><br/>
+    </td>
+</tr>
+
 </table>
 
 
