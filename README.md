@@ -17,7 +17,7 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 
 | Topic | Right |
 | :--- | :--- |
-| **Java ArrayBlockingQueue** <p> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/ArrayBlockingQueue.png?raw=true)](https://www.youtube.com/watch?v=T_PxKNUIljY&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=11) | [Code Example](./ArrayBlockingQueue) <br> [YouTube Video](https://www.youtube.com/watch?v=T_PxKNUIljY&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=11) |
+| **Java ArrayBlockingQueue** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/ArrayBlockingQueue.png?raw=true)](https://www.youtube.com/watch?v=T_PxKNUIljY&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=11) | [Code Example](./ArrayBlockingQueue) <br> [YouTube Video](https://www.youtube.com/watch?v=T_PxKNUIljY&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=11) |
 | 4    | 5      |
 
 <table>
