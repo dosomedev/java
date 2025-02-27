@@ -15,6 +15,11 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 # List of Videos
 ## Beginner-friendly
 
+| Left | Center | Right |
+| :--- | :----: | ---: |
+| 1    | 2      | 3     |
+| 4    | 5      | 6     |
+
 <table>
     <tr>
         <td style="text-align: center;">
