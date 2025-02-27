@@ -19,169 +19,169 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 <tr>
 <td align="center">
 <strong>ArrayBlockingQueue</strong><br/>
-<a href="https://youtu.be/T_PxKNUIljY" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/ArrayBlockingQueue.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./ArrayBlockingQueue">Code Example</a> / <a href="https://youtu.be/T_PxKNUIljY" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=T_PxKNUIljY&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=11" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/ArrayBlockingQueue.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./ArrayBlockingQueue">Code Example</a> / <a href="https://www.youtube.com/watch?v=T_PxKNUIljY&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=11" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>ArrayDeque</strong><br/>
-<a href="https://youtu.be/Ze23EjLHxkQ" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/ArrayDeque.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./ArrayDeque">Code Example</a> / <a href="https://youtu.be/Ze23EjLHxkQ" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=Ze23EjLHxkQ&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=5&t=1s" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/ArrayDeque.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./ArrayDeque">Code Example</a> / <a href="https://www.youtube.com/watch?v=Ze23EjLHxkQ&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=5&t=1s" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>Array vs ArrayList</strong><br/>
-<a href="https://youtu.be/tuo_HUqlknk" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/ArrayList.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./ArrayBlockingQueue">Code Example</a> / <a href="https://youtu.be/tuo_HUqlknk" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=tuo_HUqlknk&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=19" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/ArrayList.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./ArrayBlockingQueue">Code Example</a> / <a href="https://www.youtube.com/watch?v=tuo_HUqlknk&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=19" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>CompletableFuture</strong><br/>
-<a href="https://youtu.be/6Q9htvaaR70" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/CompletableFuture.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./CompletableFuture">Code Example</a> / <a href="https://youtu.be/6Q9htvaaR70" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=6Q9htvaaR70&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=2" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/CompletableFuture.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./CompletableFuture">Code Example</a> / <a href="https://www.youtube.com/watch?v=6Q9htvaaR70&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=2" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>ConcurrentHashMap</strong><br/>
-<a href="https://youtu.be/Wj0-8NLfqDM" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/ConcurrentHashMap.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./ConcurrentHashMap">Code Example</a> / <a href="https://youtu.be/Wj0-8NLfqDM" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=Wj0-8NLfqDM&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=11" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/ConcurrentHashMap.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./ConcurrentHashMap">Code Example</a> / <a href="https://www.youtube.com/watch?v=Wj0-8NLfqDM&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=11" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
-<strong>DateFormatting</strong><br/>
-<a href="https://youtu.be/avdcbNZjeI4" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/DateFormatting.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./DateFormatting">Code Example</a> / <a href="https://youtu.be/avdcbNZjeI4" target="_blank">YouTube Video</a><br/><br/>
+<strong>Java Date Format - The Correct Way!</strong><br/>
+<a href="https://www.youtube.com/watch?v=avdcbNZjeI4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=7&pp=gAQBiAQB" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/DateFormatting.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./DateFormatting">Code Example</a> / <a href="https://www.youtube.com/watch?v=avdcbNZjeI4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=7&pp=gAQBiAQB" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>DelayQueue</strong><br/>
-<a href="https://youtu.be/IAotYHvxrJ4" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/DelayQueue.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./DelayQueue">Code Example</a> / <a href="https://youtu.be/IAotYHvxrJ4" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=IAotYHvxrJ4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=4" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/DelayQueue.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./DelayQueue">Code Example</a> / <a href="https://www.youtube.com/watch?v=IAotYHvxrJ4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=4" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>EnumMap</strong><br/>
-<a href="https://youtu.be/ugmdV8NRGzI" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/EnumMap.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./EnumMap">Code Example</a> / <a href="https://youtu.be/ugmdV8NRGzI" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=ugmdV8NRGzI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=21" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/EnumMap.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./EnumMap">Code Example</a> / <a href="https://www.youtube.com/watch?v=ugmdV8NRGzI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=21" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>EnumSet</strong><br/>
-<a href="https://youtu.be/G6ZfJjb0TAI" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/EnumSet.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./EnumSet">Code Example</a> / <a href="https://youtu.be/G6ZfJjb0TAI" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=G6ZfJjb0TAI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=16&pp=gAQBiAQB" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/EnumSet.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./EnumSet">Code Example</a> / <a href="https://www.youtube.com/watch?v=G6ZfJjb0TAI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=16&pp=gAQBiAQB" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>Future</strong><br/>
-<a href="https://youtu.be/l_VGKx6KPqs" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Future.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./Future">Code Example</a> / <a href="https://youtu.be/l_VGKx6KPqs" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=l_VGKx6KPqs&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=5" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Future.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./Future">Code Example</a> / <a href="https://www.youtube.com/watch?v=l_VGKx6KPqs&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=5" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>HashMap</strong><br/>
-<a href="https://youtu.be/p1kOmJwkSf4" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/HashMap.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./HashMap">Code Example</a> / <a href="https://youtu.be/p1kOmJwkSf4" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=p1kOmJwkSf4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=9" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/HashMap.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./HashMap">Code Example</a> / <a href="https://www.youtube.com/watch?v=p1kOmJwkSf4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=9" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>HashSet</strong><br/>
-<a href="https://youtu.be/ZQ8ona2q6Fc" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/HashSet.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./HashSet">Code Example</a> / <a href="https://youtu.be/ZQ8ona2q6Fc" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=ZQ8ona2q6Fc&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=27" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/HashSet.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./HashSet">Code Example</a> / <a href="https://www.youtube.com/watch?v=ZQ8ona2q6Fc&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=27" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>IdentityHashMap</strong><br/>
-<a href="https://youtu.be/WAQ9QOgFfGA" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/IdentityHashMap.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./IdentityHashMap">Code Example</a> / <a href="https://youtu.be/WAQ9QOgFfGA" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=WAQ9QOgFfGA&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=15" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/IdentityHashMap.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./IdentityHashMap">Code Example</a> / <a href="https://www.youtube.com/watch?v=WAQ9QOgFfGA&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=15" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>LinkedBlockingQueue</strong><br/>
-<a href="https://youtu.be/GI_Z3aPNjC4" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/LinkedBlockingQueue.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./LinkedBlockingQueue">Code Example</a> / <a href="https://youtu.be/GI_Z3aPNjC4" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=GI_Z3aPNjC4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=9&t=4s&pp=gAQBiAQB" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/LinkedBlockingQueue.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./LinkedBlockingQueue">Code Example</a> / <a href="https://www.youtube.com/watch?v=GI_Z3aPNjC4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=9&t=4s&pp=gAQBiAQB" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>LinkedHashMap</strong><br/>
-<a href="https://youtu.be/lxQdYsDDFDQ" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/LinkedHashMap.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./LinkedHashMap">Code Example</a> / <a href="https://youtu.be/lxQdYsDDFDQ" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=lxQdYsDDFDQ&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=1&pp=gAQBiAQB" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/LinkedHashMap.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./LinkedHashMap">Code Example</a> / <a href="https://www.youtube.com/watch?v=lxQdYsDDFDQ&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=1&pp=gAQBiAQB" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>LinkedHashSet</strong><br/>
-<a href="https://youtu.be/VORJiUIAonU" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/LinkedHashSet.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./LinkedHashSet">Code Example</a> / <a href="https://youtu.be/VORJiUIAonU" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=VORJiUIAonU&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=22&pp=gAQBiAQB" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/LinkedHashSet.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./LinkedHashSet">Code Example</a> / <a href="https://www.youtube.com/watch?v=VORJiUIAonU&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=22&pp=gAQBiAQB" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>LinkedList vs ArrayList</strong><br/>
-<a href="https://youtu.be/8KHgIA5NDZc" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/LinkedList.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./LinkedList">Code Example</a> / <a href="https://youtu.be/8KHgIA5NDZc" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=8KHgIA5NDZc&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=16&t=1s" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/LinkedList.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./LinkedList">Code Example</a> / <a href="https://www.youtube.com/watch?v=8KHgIA5NDZc&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=16&t=1s" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>Optional</strong><br/>
-<a href="https://youtu.be/ILR8HPjSRS4" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Optional.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./Optional">Code Example</a> / <a href="https://youtu.be/ILR8HPjSRS4" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=ILR8HPjSRS4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=12" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Optional.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./Optional">Code Example</a> / <a href="https://www.youtube.com/watch?v=ILR8HPjSRS4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=12" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>PriorityBlockingQueue</strong><br/>
-<a href="https://youtu.be/ismH4r5gzjE" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/PriorityBlockingQueue.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./PriorityBlockingQueue">Code Example</a> / <a href="https://youtu.be/ismH4r5gzjE" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=ismH4r5gzjE&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=14" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/PriorityBlockingQueue.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./PriorityBlockingQueue">Code Example</a> / <a href="https://www.youtube.com/watch?v=ismH4r5gzjE&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=14" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>PriorityQueue</strong><br/>
-<a href="https://youtu.be/QW1uzksQ4WM" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/PriorityQueue.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./PriorityQueue">Code Example</a> / <a href="https://youtu.be/QW1uzksQ4WM" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=QW1uzksQ4WM&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=28" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/PriorityQueue.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./PriorityQueue">Code Example</a> / <a href="https://www.youtube.com/watch?v=QW1uzksQ4WM&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=28" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>Stack</strong><br/>
-<a href="https://youtu.be/rvPUgTKWjxQ" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Stack.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./Stack">Code Example</a> / <a href="https://youtu.be/rvPUgTKWjxQ" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=rvPUgTKWjxQ&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=19" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Stack.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./Stack">Code Example</a> / <a href="https://www.youtube.com/watch?v=rvPUgTKWjxQ&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=19" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>StringBuffer</strong><br/>
-<a href="https://youtu.be/GVn0gsuZEzI" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/StringBuffer.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./StringBuffer">Code Example</a> / <a href="https://youtu.be/GVn0gsuZEzI" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=GVn0gsuZEzI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=24" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/StringBuffer.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./StringBuffer">Code Example</a> / <a href="https://www.youtube.com/watch?v=GVn0gsuZEzI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=24" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>StringBuilder</strong><br/>
-<a href="https://youtu.be/MOZ3FAw8l1s" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/StringBuilder.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./StringBuilder">Code Example</a> / <a href="https://youtu.be/MOZ3FAw8l1s" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=MOZ3FAw8l1s&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=24&pp=gAQBiAQB" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/StringBuilder.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./StringBuilder">Code Example</a> / <a href="https://www.youtube.com/watch?v=MOZ3FAw8l1s&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=24&pp=gAQBiAQB" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>SynchronousQueue</strong><br/>
-<a href="https://youtu.be/w1fHygbKgGM" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/SynchronousQueue.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./SynchronousQueue">Code Example</a> / <a href="https://youtu.be/w1fHygbKgGM" target="_blank">YouTube Video</a><br/><br/>
+<a href="SynchronousQueue" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/SynchronousQueue.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./SynchronousQueue">Code Example</a> / <a href="SynchronousQueue" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>TreeMap</strong><br/>
-<a href="https://youtu.be/thb4MFhOObI" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/TreeMap.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./TreeMap">Code Example</a> / <a href="https://youtu.be/thb4MFhOObI" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=thb4MFhOObI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=18" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/TreeMap.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./TreeMap">Code Example</a> / <a href="https://www.youtube.com/watch?v=thb4MFhOObI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=18" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>TreeSet</strong><br/>
-<a href="https://youtu.be/7jMfui6DYm4" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/TreeSet.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./TreeSet">Code Example</a> / <a href="https://youtu.be/7jMfui6DYm4" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=7jMfui6DYm4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=29" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/TreeSet.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./TreeSet">Code Example</a> / <a href="https://www.youtube.com/watch?v=7jMfui6DYm4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=29" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <strong>Vector vs ArrayList</strong><br/>
-<a href="https://youtu.be/iWDGnBjvGRw" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Vector.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./Vector">Code Example</a> / <a href="https://youtu.be/iWDGnBjvGRw" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=iWDGnBjvGRw&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=26&t=1s" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Vector.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./Vector">Code Example</a> / <a href="https://www.youtube.com/watch?v=iWDGnBjvGRw&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=26&t=1s" target="_blank">YouTube Video</a><br/><br/>
 </td>
 <td align="center">
 <strong>WeakHashMap</strong><br/>
-<a href="https://youtu.be/KQVS8teW3TU" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/WeakHashMap.png?raw=true" alt="Link to YouTube"></a><br/>
-<a href="./WeakHashMap">Code Example</a> / <a href="https://youtu.be/KQVS8teW3TU" target="_blank">YouTube Video</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=KQVS8teW3TU&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=7" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/WeakHashMap.png?raw=true" alt="Link to YouTube"></a><br/>
+<a href="./WeakHashMap">Code Example</a> / <a href="https://www.youtube.com/watch?v=KQVS8teW3TU&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=7" target="_blank">YouTube Video</a><br/><br/>
 </td>
 </tr>
 </table>
@@ -192,88 +192,88 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 <tr>
     <td align="center">
         <strong>Java Multithreading - 1 - Explained</strong><br/>
-        <a href="https://youtu.be/MHhP1m_GTDs" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-1.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/MHhP1m_GTDs" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=tusUoAfYzAI&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=11" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-1.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=tusUoAfYzAI&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=11" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 2 - State Priority Interrupt</strong><br/>
-        <a href="https://youtu.be/cW4w30GpUw0" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-2.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/cW4w30GpUw0" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=cW4w30GpUw0&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=9&t=526s" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-2.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=cW4w30GpUw0&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=9&t=526s" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 3 - Synchronization</strong><br/>
-        <a href="https://youtu.be/cI2eImdH8Ek" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-3.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/cI2eImdH8Ek" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=cI2eImdH8Ek&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=7&pp=gAQBiAQB" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-3.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=cI2eImdH8Ek&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=7&pp=gAQBiAQB" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 4 - Wait Notify</strong><br/>
-        <a href="https://youtu.be/3Zwo2uRTtis" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-4.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/3Zwo2uRTtis" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=3Zwo2uRTtis&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=7" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-4.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=3Zwo2uRTtis&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=7" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 5 - Thread-local data and Timer</strong><br/>
-        <a href="https://youtu.be/5ZZwRscOfTo" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-5.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/5ZZwRscOfTo" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=5ZZwRscOfTo&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=5&pp=gAQBiAQB" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-5.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=5ZZwRscOfTo&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=5&pp=gAQBiAQB" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 6 - Executors</strong><br/>
-        <a href="https://youtu.be/bhJMkJq61c0" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-6.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/bhJMkJq61c0" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=bhJMkJq61c0&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=5" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-6.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=bhJMkJq61c0&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=5" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 7 - Synchronizers</strong><br/>
-        <a href="https://youtu.be/HYbXlvODl6E" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-7.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/HYbXlvODl6E" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=HYbXlvODl6E&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=4" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-7.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=HYbXlvODl6E&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=4" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 8 - The Locking Framework</strong><br/>
-        <a href="https://youtu.be/dadfi-hxvNw" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-8.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/dadfi-hxvNw" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=dadfi-hxvNw&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=3" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-8.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=dadfi-hxvNw&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=3" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 9 - Volatile and Atomic</strong><br/>
-        <a href="https://youtu.be/jAZpbCDyYtw" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-9.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/jAZpbCDyYtw" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=jAZpbCDyYtw&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=2&t=1s" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-9.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=jAZpbCDyYtw&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=2&t=1s" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 10 - Fork Join Framework</strong><br/>
-        <a href="https://youtu.be/tusUoAfYzAI" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-10.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/tusUoAfYzAI" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=tusUoAfYzAI&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=11" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-10.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=tusUoAfYzAI&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=11" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
 <tr>
     <td align="center">
         <strong>Java Multithreading - 11 - Completion Service</strong><br/>
-        <a href="https://youtu.be/W36j4pDNWmE" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-11.png?raw=true" alt="Link to YouTube"></a><br/>
-        <a href="./Threading">Code Example</a> / <a href="https://youtu.be/W36j4pDNWmE" target="_blank">YouTube Video</a><br/><br/>
+        <a href="https://www.youtube.com/watch?v=W36j4pDNWmE&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=12" target="_blank"><img src="https://github.com/dosomedev/java/blob/main/img/Threading-11.png?raw=true" alt="Link to YouTube"></a><br/>
+        <a href="./Threading">Code Example</a> / <a href="https://www.youtube.com/watch?v=W36j4pDNWmE&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=12" target="_blank">YouTube Video</a><br/><br/>
     </td>
 </tr>
 
