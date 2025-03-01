@@ -1,8 +1,8 @@
 <div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/dosomedev/java/656667294fc2c03f1a879b6a1aa8ea01bb86da17/img/dsd-logo.svg" alt="Do Some Dev Logo" />
-  <h3>All-in on coding, programming, developing!</h3>
-  <br><br>
+    <br>
+    <img src="https://raw.githubusercontent.com/dosomedev/java/656667294fc2c03f1a879b6a1aa8ea01bb86da17/img/dsd-logo.svg" alt="Do Some Dev Logo" />
+    <h3>All-in on coding, programming, developing!</h3>
+    <br><br>
 </div>
 
 # Java Examples for the Videos
@@ -39,7 +39,7 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 | **Java Stack** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/Stack.png?raw=true)](https://www.youtube.com/watch?v=rvPUgTKWjxQ&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=19) | - [Code Example](./Stack) <br> - [YouTube Video](https://www.youtube.com/watch?v=rvPUgTKWjxQ&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=19) |
 | **Java StringBuffer** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/StringBuffer.png?raw=true)](https://www.youtube.com/watch?v=GVn0gsuZEzI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=24) | - [Code Example](./StringBuffer) <br> - [YouTube Video](https://www.youtube.com/watch?v=GVn0gsuZEzI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=24) |
 | **Java StringBuilder** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/StringBuilder.png?raw=true)](https://www.youtube.com/watch?v=MOZ3FAw8l1s&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=24&pp=gAQBiAQB) | - [Code Example](./StringBuilder) <br> - [YouTube Video](https://www.youtube.com/watch?v=MOZ3FAw8l1s&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=24&pp=gAQBiAQB) |
-| **Java SynchronousQueue** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/SynchronousQueue.png?raw=true)](SynchronousQueue) | - [Code Example](./SynchronousQueue) <br> - [YouTube Video](SynchronousQueue) |
+| **Java SynchronousQueue** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/SynchronousQueue.png?raw=true)](https://www.youtube.com/watch?v=w1fHygbKgGM&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=20) | - [Code Example](./https://www.youtube.com/watch?v=w1fHygbKgGM&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=20) <br> - [YouTube Video](SynchronousQueue) |
 | **Java TreeMap** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/TreeMap.png?raw=true)](https://www.youtube.com/watch?v=thb4MFhOObI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=18) | - [Code Example](./TreeMap) <br> - [YouTube Video](https://www.youtube.com/watch?v=thb4MFhOObI&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=18) |
 | **Java TreeSet** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/TreeSet.png?raw=true)](https://www.youtube.com/watch?v=7jMfui6DYm4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=29) | - [Code Example](./TreeSet) <br> - [YouTube Video](https://www.youtube.com/watch?v=7jMfui6DYm4&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=29) |
 | **Java Vector vs ArrayList** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/Vector.png?raw=true)](https://www.youtube.com/watch?v=iWDGnBjvGRw&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=26&t=1s) | - [Code Example](./Vector) <br> - [YouTube Video](https://www.youtube.com/watch?v=iWDGnBjvGRw&list=PLX1UpgTeV9a6tWRSrKYWu26SRIVFyyYJ0&index=26&t=1s) |
