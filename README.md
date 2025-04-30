@@ -47,7 +47,6 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 
 ## Advanced
 
-
 | Topic | Links |
 | :--- | :--- |
 | **Java Multithreading - 1 - Explained** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/Threading-1.png?raw=true)](https://www.youtube.com/watch?v=tusUoAfYzAI&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=11) | - [Code Example](./Threading) <br> - [YouTube Video](https://www.youtube.com/watch?v=tusUoAfYzAI&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=11) |
@@ -62,6 +61,12 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 | **Java Multithreading - 10 - Fork Join Framework** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/Threading-10.png?raw=true)](https://www.youtube.com/watch?v=tusUoAfYzAI&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=11) | - [Code Example](./Threading) <br> - [YouTube Video](https://www.youtube.com/watch?v=tusUoAfYzAI&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=11) |
 | **Java Multithreading - 11 - Completion Service** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/Threading-12.png?raw=true)](https://www.youtube.com/watch?v=W36j4pDNWmE&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=12) | - [Code Example](./Threading) <br> - [YouTube Video](https://www.youtube.com/watch?v=W36j4pDNWmE&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ&index=12) |
 | **Java Multithreading - 12 - Parallel Streams** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/Threading-11.png?raw=true)](https://www.youtube.com/watch?v=K-M_Q4EtWTc&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ) | - [Code Example](./Threading) <br> - [YouTube Video](https://www.youtube.com/watch?v=K-M_Q4EtWTc&list=PLX1UpgTeV9a72qwFniza3BY1JDa5yoBhJ) |
+
+## GUI
+
+| Topic | Links |
+| :--- | :--- |
+| **Java Multithreading - 1 - Explained** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/GUI-1.png?raw=true)](https://www.youtube.com/watch?v=eg69gkxu18Y&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=2) | - [Code Example](./GUI) <br> - [YouTube Video](https://www.youtube.com/watch?v=eg69gkxu18Y&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=2) |
 
 # Meet Me Here
 * [All my other channels](https://dosomedev.com/contact)
