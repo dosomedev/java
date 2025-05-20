@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd networking-app
+mvn clean package

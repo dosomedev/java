@@ -1,0 +1,4 @@
+@echo off
+
+cd networking-app\target
+java -jar networking-app-1.0.jar
