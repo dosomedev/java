@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd gui-app/target
+java -jar ./gui-app-1.0.jar
