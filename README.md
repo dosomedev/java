@@ -68,6 +68,8 @@ Welcome to the **Do Some Dev** code repository for Java examples. This meticulou
 | :--- | :--- |
 | **Java GUI - Simple GUI Tutorial in 13 Minutes** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/GUI-1.png?raw=true)](https://www.youtube.com/watch?v=eg69gkxu18Y&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=2) | - [Code Example](./GUI) <br> - [YouTube Video](https://www.youtube.com/watch?v=eg69gkxu18Y&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=2) |
 | **Java GUI - The BEST Layout Manager for Java Swing** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/GUI-2.png?raw=true)](https://www.youtube.com/watch?v=yeETmBZXglc&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=1) | - [Code Example](./GUI) <br> - [YouTube Video](https://www.youtube.com/watch?v=yeETmBZXglc&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=1) |
+| **Java GUI - 3 - BEYOND Basic ActionListener** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/GUI-3.png?raw=true)](https://www.youtube.com/watch?v=Xdfl84xd1LQ&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=3) | - [Code Example](./GUI) <br> - [YouTube Video](https://www.youtube.com/watch?v=Xdfl84xd1LQ&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=3) |
+| **Java GUI - 4 - FASTEST Table Setup - Ready in 12 Minutes** <br> [![Link to YouTube](https://github.com/dosomedev/java/blob/main/img/GUI-4.png?raw=true)](https://www.youtube.com/watch?v=NnG9GivG7hM&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=1) | - [Code Example](./GUI) <br> - [YouTube Video](https://www.youtube.com/watch?v=NnG9GivG7hM&list=PLX1UpgTeV9a5jnLHKhCn27jB72_9CpoNg&index=1) |
 
 ## Networking
 
